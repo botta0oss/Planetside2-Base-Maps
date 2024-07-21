@@ -10,6 +10,6 @@ software used:
 - https://github.com/ryanjsims/warpgate for extracting models 
 
 IMPORTANT:
-the software made by ryanjsims to extract the zones from game files has a hard time placing rocks where they need to be or with the right rotation. 
+the software made by ryanjsims to extract the zones from game files has a hard time placing objects where they need to be or with the right rotation. 
 I try to correct every error and make the render as precise as possible but some parts may not be corresponding 100% to the game.
 
